@@ -36,5 +36,5 @@ for file in listdir(path):
 msg = ""
 for tab in t_list:
     msg = msg + tab + "\n"
-botconnect = SyncWebhook.from_url("https://discord.com/api/webhooks/1095998789912907816/A4leBcP9PC-CTi2kJeQnAYWhNQgtggcjJVMtfU0Lp1-pmI_r-lWPiGhNSTEppW8Aci7x")
+botconnect = SyncWebhook.from_url("REPLACE_THIS_WITH_WEBHOOK_URL")
 botconnect.send(msg)
