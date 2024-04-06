@@ -1,8 +1,8 @@
-# Discord-Tokengrabber
-Short understandable Tokengrabber without to much features you dont need =)
+# Discord-Tokentool
+Short understandable Discord Token Tool without to much features you dont need =)
 
-This simple Scripts are here to show you your Discord Tokens (not others).
+This simple Scripts are here to show you your Discord Tokens.
 
-The `sirox_tokenshower.py` script only shows all locally stored tokens to you.
+The `token_print.py` script only shows all locally stored tokens to you.
 
-The `sirox_tokengrabber.py` script sends the token to a webhook you must enter before executing.
+The `token_webhook.py` script sends the token to a webhook you must enter before executing.
