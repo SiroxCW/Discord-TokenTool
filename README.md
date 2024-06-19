@@ -1,8 +1,7 @@
-# Discord-Tokentool
-Short understandable Discord Token Tool without to much features you dont need =)
+## Discord-Tokentool
+Simple program which prints the local Discord tokens or sends them to a webhook.
 
-This simple Scripts are here to show you your Discord Tokens.
+### Usage
+run `token_print.py` to print all Discord tokens which can be locally found.
 
-The `token_print.py` script only shows all locally stored tokens to you.
-
-The `token_webhook.py` script sends the token to a webhook you must enter before executing.
+run `token_webhook.py` to send all Discord tokens to a webhook which can be locally found.
